@@ -1,4 +1,4 @@
-# Workshop: Dashboarding
+# Introduction to Dashboarding with Streamlit
 
 
 ## Getting Started
