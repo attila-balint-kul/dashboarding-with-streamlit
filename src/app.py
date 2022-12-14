@@ -4,7 +4,7 @@ import numpy as np
 import pandas as pd
 import streamlit as st
 
-import business_login as bl
+import business_logic as bl
 
 np.random.seed(42)  # Make random control pseudorandom
 

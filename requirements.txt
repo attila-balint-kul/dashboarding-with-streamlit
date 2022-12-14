@@ -1,5 +1,5 @@
-darts==0.22.0
-pandas==1.5.1
+u8darts==0.22.0
+pandas==1.5.2
 plotly==5.11.0
-streamlit==1.15.0
-watchdog==2.1.9
+streamlit==1.15.2
+watchdog==2.2.0
